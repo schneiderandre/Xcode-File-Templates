@@ -1,5 +1,9 @@
 #Xcode File Templates
 There is currently just the Expecta file template, maybe some other templats will follow.
+##Using the Templates
+Simply paste the templates to `~/Library/Developer/Xcode/Templates/File Templates/` or use the included scripts to add/remove a specific template.
+
+##Templates
 ###Expecta file template
 
 If you want to test the class `Foo`, just use the Expecta template, enter the classname and it will generate a new class called `FooSpec` with a simple layout and all necessary imports.
